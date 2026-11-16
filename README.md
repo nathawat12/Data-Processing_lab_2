@@ -10,15 +10,11 @@ We use classes to load CSV data, filter rows, calculate values, store tables, an
 
 ## Project Structure
 
-```text
-oop_data_processing_lab/
-├── README.md                   # Project information and instructions
-├── Cities.csv                  # City, country, location and temperature data
-├── Countries.csv               # Country, population, EU and coastline data
-├── commit3_data_processing.py  # Completed Commit 3 starter code
-├── data_processing.py          # Completed Commit 4 starter code (final version)
-└── test_data_processing.py     # Optional local checks
-```
+
+│
+├── README.md                 # This file
+├── Cities.csv                      # The dataset
+ |---- data_processing.py	  # The analysis code
 
 ## Design Overview
 
